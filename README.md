@@ -2,7 +2,7 @@ I'm Jay
 
 ### 🛡️ Cybersecurity | 🔍 OSINT
 
-Cybersecurity professional with a focus on **threat intel, OSINT, and network security**. I tinker with security tools, automate processes, and occasionally break things (for educational purposes, of course).  
+Cybersecurity professional with a focus on **threat intel, OSINT, and network security**. I tinker with security tools, automate processes, and occasionally break things (😀).  
 
 ---
 
