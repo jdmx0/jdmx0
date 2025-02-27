@@ -1,4 +1,4 @@
-# Yo, I'm Jay  
+I'm Jay  
 
 ### 🛡️ Cybersecurity | 🔍 OSINT
 
@@ -6,7 +6,7 @@ Cybersecurity professional with a focus on **threat intel, OSINT, and network se
 
 ---
 
-## 🔥 What I'm Working On  
+  
 - **🔓 Cybersecurity Projects**  
   - **Steganography Password Manager** – Creative way to secure credentials.  
   - **CBMI** - A misinformation analysis tool.
@@ -18,12 +18,12 @@ Cybersecurity professional with a focus on **threat intel, OSINT, and network se
 
 ---
 
-## 🛠️ Tech & Tools  
-I don’t just name-drop tools for the sake of it—if it's here, I actually use it.  
 
-- **Security & OSINT:** Focused on intelligence gathering, network defense, automation, and IoT.
-- **Dev & Scripting:** Python, Bash, GoLang. Mostly writing scripts to make my life easier.  
-- **Infra & Automation:** Messing with cloud security, containerization, and automation.  
+ 
+- **🌱 Usage
+ - **Security & OSINT:** Focused on threat intelligence, OSINT, and building cybersecurity tools powered by AI.**
+ - **Dev & Scripting:** Python, Bash, GoLang. Mostly writing scripts to make my life easier.  
+ - **Infra & Automation:** Messing with cloud security, containerization, and automation.  
 
 ---
 
