@@ -2,7 +2,7 @@ i am jay
 
 i enjoy osint, drones, ai and really anything tech or defense related. i like to build cybersecurity tools and AI powered hardware.
 
-mostly focused on cybersecurity and osint. i am currently employed as a security analyst.
+mostly focused on cybersecurity and osint. i am currently employed as a security analyst. i do not have traditional schooling. my hobbies become obsessions.
 
 current projects
 
